@@ -1,3 +1,3 @@
-Suite Wallet.
+Quiz Tracker
 
-A multi currency wallet.
+A fun app to track Quiz team participation
